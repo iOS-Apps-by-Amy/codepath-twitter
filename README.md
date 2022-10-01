@@ -1,6 +1,6 @@
 # Project 3 - *Cyan Twitter*
 
-**Cyan Twitter** is a basic twitter app to read your tweets.
+**Cyan Twitter** is a basic twitter app to read your tweets. This app is still in progress.
 
 Time spent: **4** hours spent in total
 
